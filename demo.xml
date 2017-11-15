@@ -14,61 +14,46 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <title>
-        <icon>
-            //a.oxm1.cc/img/fox.jpg
-        </icon>
         <title>
-            watch
+            <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3oqfoTj9w9cva4Rk3zvAdga-989.png</icon>
+            <title>一日游</title>
+            <subtitle>(14项)</subtitle>
+            <href></href>
         </title>
-        <subtitle>
-            watch
-        </subtitle>
-        <href>
-            light-weight mobilephone
-        </href>
-    </title>
-    <product-list>
-        <i>
-            <title>
-                car
-            </title>
-            <brief>
-                strong watch
-            </brief>
-            <price>
-                0.27
-            </price>
-            <img>
-                //a.oxm1.cc/img/fox.jpg
-            </img>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-            <tags>
-                <i>
-                    wallet
-                </i>
-            </tags>
-            <id>
-                screen
-            </id>
-            <orig_price>
-                7.03
-            </orig_price>
-            <inventory>
-                72
-            </inventory>
-            <discount>
-                0.08
-            </discount>
-            <category>
-                notebook
-            </category>
-            <sold>
-                3024
-            </sold>
-        </i>
-    </product-list>
+        <product-list>
+            <i>
+                <title>杭州宋城景区＋西溪湿地洪园景区一日游［杭州出发　含宋城演出　视觉冲击］</title>
+                <brief></brief>
+                <price>300</price>
+                <img></img>
+                <href></href>
+                <tags>
+                    <i>4.6分</i>
+                    <i>超棒</i>
+                </tags>
+                <sold>597</sold>
+            </i>
+            <i>
+                <title>杭州西湖＋雷峰塔＋杭州宋城景区＋京杭大运河＋万松书院一日游［纯玩团　历史文化之旅　杭州出发］</title>
+                <brief></brief>
+                <price>488</price>
+                <img></img>
+                <href></href>
+                <tags>
+                    <i>4.8分</i>
+                    <i>超棒</i>
+                </tags>
+                <sold>183</sold>
+            </i>
+            <i>
+                <title>浙江杭州西湖一日游［半日游　雷峰塔花港观鱼船游西湖河坊街城隍阁］</title>
+                <brief></brief>
+                <price>148</price>
+                <img></img>
+                <href></href>
+                <tags></tags>
+                <sold>1</sold>
+            </i>
+        </product-list>
     </data>
 </root>
