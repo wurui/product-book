@@ -33,6 +33,9 @@
             		</li>
             	</xsl:for-each>
             </ul>
+            <div class="bottom-button">
+                <a href="{data/a-link/href}"><xsl:value-of select="data/a-link/title"/></a>
+            </div>
         </div>
     </xsl:template>
 </xsl:stylesheet>

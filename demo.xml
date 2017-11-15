@@ -55,5 +55,9 @@
                 <sold>1</sold>
             </i>
         </product-list>
+        <a-link>
+            <title>查看全部一日游 &#165;148起</title>
+            <href>#more</href>
+        </a-link>
     </data>
 </root>
