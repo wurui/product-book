@@ -1,6 +1,6 @@
 {
   "name": "product-book",
   "version": "0.0.1",
-  "apiDependencies": ["title","product-list"]
+  "apiDependencies": ["title","product-list","a-link"]
 }
 
